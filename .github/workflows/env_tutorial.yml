@@ -1,0 +1,26 @@
+name: EnvVar Tutorial
+env: # you can set environment variables in the workflow
+  WORKFLOW_VARIABLE: "Workflow variables can be accessed anywhere in the workflow!"
+
+on:
+  push:
+    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env: # env var can be set in a job too, can only be accessed within the job itself
+      JOB_VARIABLE: "This is my Job variable!!!!!!!"
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: prints the environment variables
+        env: # setting env var in a step means only the step can access it
+          STEP_VARIABLE: "Example step variable....................."
+        run: |
+          echo Here are my custom environment variables
+          echo $WORKFLOW_VARIABLE
+          echo $JOB_VARIABLE
+          echo $STEP_VARIABLE
