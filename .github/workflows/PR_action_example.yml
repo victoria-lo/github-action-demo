@@ -1,0 +1,24 @@
+name: Automatic pull request review
+
+# trigger workflow on a PR
+on: [pull_request] 
+jobs:
+  #job identifier
+  automate-pullrequest-review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Approve pull request
+        # condition to run the action
+        if: github.actor == 'dependabot[bot]'
+
+        # location of the action to run
+        uses: andrewmusgrave/automatic-pull-request-review@0.0.5
+
+        # action argument
+        with:
+          # GITHUB_TOKEN is an automatically generated secret for authentication
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          # Approve the pull request automatically if it is by dependabot
+          event: APPROVE
+          # Comment of the review
+          body: 'Thank you dependabot 🎊'
