@@ -1,3 +1,5 @@
+![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/ci-cd.yml/badge.svg)
+
 # GitHub Actions Demo
 - Demo files for full introductory series to GitHub Actions ✍️
 - GitHub Actions 101 Series: https://lo-victoria.com/series/github-actions
