@@ -2,8 +2,8 @@ name: CI/CD Example
 
 on:
   push:
-    branches:
-      - dev
+    branches: [dev]
+  workflow_dispatch:
 
 jobs:
   build:
