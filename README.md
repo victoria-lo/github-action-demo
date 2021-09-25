@@ -1,6 +1,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 <!-- start quote -->
+💬 Quote of the Day: "I believe life is an intelligent thing that things aren't random!"
 <!-- end quote -->
 
 # GitHub Actions Demo
