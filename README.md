@@ -1,5 +1,8 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/ci-cd.yml/badge.svg)
 
+<!-- start quote -->
+<!-- end quote -->
+
 # GitHub Actions Demo
 - Demo files for full introductory series to GitHub Actions ✍️
 - GitHub Actions 101 Series: https://lo-victoria.com/series/github-actions
@@ -16,3 +19,8 @@
 ## Part 4: Build a CI/CD Workflow
 - Simple Color Organizer App to showcase how to build a CI/CD workflow with GitHub Actions 🎨
 - Example CI/CD workflow [here](https://github.com/victoria-lo/github-action-demo/blob/main/.github/workflows/ci-cd.yml)
+
+## Part 5: Build a Custom GitHub Action
+- GitHub Action to update README with daily quote every 24 hours 💬
+- Example workflow [here](https://github.com/victoria-lo/github-action-demo/blob/main/.github/workflows/qotd.yml)
+- Quote of the Day Action repo [here](https://github.com/victoria-lo/qotd-github-action)
