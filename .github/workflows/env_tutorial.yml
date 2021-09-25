@@ -3,8 +3,6 @@ env: # you can set environment variables in the workflow
   WORKFLOW_VARIABLE: "Workflow variables can be accessed anywhere in the workflow!"
 
 on:
-  push:
-    branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
