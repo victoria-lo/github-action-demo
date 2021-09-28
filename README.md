@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I've always wanted people to know who they are from the inside. Then they can create the life they desire and deserve. I've always believed that my job was to facilitate the evolution of the human consciousness."
+💬 Quote of the Day: "Perpetual inspiration is as necessary to the life of goodness, holiness and happiness as perpetual respiration is necessary to animal life."
 <!-- end quote -->
 
 # GitHub Actions Demo
