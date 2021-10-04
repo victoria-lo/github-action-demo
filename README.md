@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "When you make the U-turn to the Universal Presence and apply the Universal practices and principles, your life is changed."
+💬 Quote of the Day: "In real life, it is the hare who wins. Every time. Look around you. And in any case it is my contention that Aesop was writing for the tortoise market. Hares have no time to read. They are too busy winning the game."
 <!-- end quote -->
 
 # GitHub Actions Demo
