@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "In real life, it is the hare who wins. Every time. Look around you. And in any case it is my contention that Aesop was writing for the tortoise market. Hares have no time to read. They are too busy winning the game."
+💬 Quote of the Day: "When making your choice in life, do not neglect to live."
 <!-- end quote -->
 
 # GitHub Actions Demo
