@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The art of living is more like wrestling than dancing."
+💬 Quote of the Day: "The more we live by our intellect, the less we understand the meaning of life."
 <!-- end quote -->
 
 # GitHub Actions Demo
