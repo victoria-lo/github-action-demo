@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world."
+💬 Quote of the Day: "I wasn't ready for fame and all that brings to your life. It was an amazing experience, but so overwhelming, because no one can tell you beforehand when it will happen or how it will impact you. So no one can tell you how to handle it, being stopped everywhere you go because people saw you on 'Oprah.' It took me over, and I wasn't ready."
 <!-- end quote -->
 
 # GitHub Actions Demo
