@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I hope that my story, I hope that my life is.. An encouragement for people, especially in Brooklyn. I feel humbled and blessed."
+💬 Quote of the Day: "There's no difference between a pessimist who says, "Oh, it's hopeless, so don't bother doing anything", and an optimist who says, "Don't bother doing anything, it's going to turn out fine anyway". Either way, nothing happens."
 <!-- end quote -->
 
 # GitHub Actions Demo
