@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "While you are proclaiming peace with your lips, be careful to have it even more fully in your heart."
+💬 Quote of the Day: "Life itself still remains a very effective therapist."
 <!-- end quote -->
 
 # GitHub Actions Demo
