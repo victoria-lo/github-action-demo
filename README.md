@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life itself still remains a very effective therapist."
+💬 Quote of the Day: "Your emotions are the slaves to your thoughts, and you are the slave to your emotions."
 <!-- end quote -->
 
 # GitHub Actions Demo
