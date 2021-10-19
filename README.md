@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Your emotions are the slaves to your thoughts, and you are the slave to your emotions."
+💬 Quote of the Day: "Life is a continuous exercise in creative problem solving."
 <!-- end quote -->
 
 # GitHub Actions Demo
