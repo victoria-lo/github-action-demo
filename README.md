@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Character develops itself in the stream of life."
+💬 Quote of the Day: "Authenticity is the act of telling people what you believe and care about, not telling them what you think they want you to believe or care about."
 <!-- end quote -->
 
 # GitHub Actions Demo
