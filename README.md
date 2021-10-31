@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is the childhood of our immortality."
+💬 Quote of the Day: "I believe life is an intelligent thing that things aren't random!"
 <!-- end quote -->
 
 # GitHub Actions Demo
