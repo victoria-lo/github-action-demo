@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse."
+💬 Quote of the Day: "Man's main task in life is to give birth to himself, to become what he potentially is. The most important product of his effort is his own personality."
 <!-- end quote -->
 
 # GitHub Actions Demo
