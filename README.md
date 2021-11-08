@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I don't believe people are looking for the meaning of life as much as they are looking for the experience of being alive."
+💬 Quote of the Day: "Of chess, it has been said that life is not long enough for it, but that is the fault of life, not chess."
 <!-- end quote -->
 
 # GitHub Actions Demo
