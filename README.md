@@ -2,7 +2,9 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!"
+💬 Quote of the Day: "Everyday new difficulties arise, new compromises has to be made, new chaos to be dealt with. 
+
+No story in this world could end happily! If it ended happily it would be your death. So enjoy everyday as if its your last day!"
 <!-- end quote -->
 
 # GitHub Actions Demo
