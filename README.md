@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is fragile. We're not guaranteed a tomorrow so you have to give it everything you've got."
+💬 Quote of the Day: "Shame is the most powerful, master emotion. It's the fear that we're not good enough."
 <!-- end quote -->
 
 # GitHub Actions Demo
