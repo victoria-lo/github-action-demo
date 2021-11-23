@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "What a blessing that God allows a life to come through your body, and then allows you to place that body in a body bag and take it out. I had to say that there's a magnificent something that God has for me to do, to give me that level of completion. That level of experience. It's unspeakable."
+💬 Quote of the Day: "The second half of a man's life is made up of nothing but the habits he has acquired during the first half."
 <!-- end quote -->
 
 # GitHub Actions Demo
