@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "A master in the art of living draws no sharp distinction between his work and his play; his labor and his leisure; his mind and his body; his education & his recreation. He hardly knows which is which. He simply pursues his vision of excellence through whatever he is doing, and leaves others to determine whether he is working or playing. To himself, he always appears to be doing both."
+💬 Quote of the Day: "Find a purpose in life so big it will challenge every capacity to be at your best."
 <!-- end quote -->
 
 # GitHub Actions Demo
