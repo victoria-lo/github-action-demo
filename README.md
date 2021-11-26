@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Find a purpose in life so big it will challenge every capacity to be at your best."
+💬 Quote of the Day: "You can map your life through your favorite movies, and no two people's maps will be the same."
 <!-- end quote -->
 
 # GitHub Actions Demo
