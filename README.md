@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "You can map your life through your favorite movies, and no two people's maps will be the same."
+💬 Quote of the Day: "I sent one e-mail in my life. I sent it to Jeff Raikes at Microsoft, and it ended up in court in Minneapolis, so I am one for one."
 <!-- end quote -->
 
 # GitHub Actions Demo
