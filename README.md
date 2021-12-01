@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The thirst for more is not evil itself, but it is often the gateway to something that is."
+💬 Quote of the Day: "Do you live in a mine field or a garden? When we live in a minefield mentality, we explode with the weeds of worry, doubt, fear, lack and limitation. Choose to cultivate your inner garden!"
 <!-- end quote -->
 
 # GitHub Actions Demo
