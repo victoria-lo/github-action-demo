@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I was sitting on the bus, and the sign said if you're ready to better your life, come to Medgar Evers College, and I got off the bus and went to Medgar Evers College."
+💬 Quote of the Day: "Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way."
 <!-- end quote -->
 
 # GitHub Actions Demo
