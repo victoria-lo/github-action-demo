@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It is the ability to take a joke, not make one, that proves you have a sense of humor."
+💬 Quote of the Day: "If you can't be funny, be interesting."
 <!-- end quote -->
 
 # GitHub Actions Demo
