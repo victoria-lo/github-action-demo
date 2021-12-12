@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Reverence for life affords me my fundamental principle of morality."
+💬 Quote of the Day: "The remedy for life's broken pieces is not classes, workshops or books. Don't try to heal the broken pieces. Just forgive."
 <!-- end quote -->
 
 # GitHub Actions Demo
