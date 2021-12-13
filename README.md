@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The remedy for life's broken pieces is not classes, workshops or books. Don't try to heal the broken pieces. Just forgive."
+💬 Quote of the Day: "You should take the approach that you're wrong. Your goal is to be less wrong."
 <!-- end quote -->
 
 # GitHub Actions Demo
