@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Well the beauty of 'Iyanla: Fix My Life' is that men are in every show. To our surprise, some of the deepest healing demonstrations have been with the men - the sons, the fathers, the husbands - because they agree to participate with the wife or the daughter or whatever it is we are looking at, and it is there."
+💬 Quote of the Day: "I have this theory about performers who last for a long time, and that is, if you break it down, music is not as big a part of it as personality and who you are. I think that we are all 3 people. I am who I think I am, I am who you think I am, and I am who I really am. The closer those 3 people are together the longer your career's gonna last. 'Cause people don't like to be fooled!"
 <!-- end quote -->
 
 # GitHub Actions Demo
