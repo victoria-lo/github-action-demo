@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "My father never kissed me, hugged me or told me that he loved me. As my only living parent, he became the filter through which I saw myself, the possibilities for my life, the world and all men. He was a conflicted and dark filter."
+💬 Quote of the Day: "I think as men begin to see things that address them, they will feel that they can relate. They can't relate to 'Basketball Wives,' 'Housewives of Atlanta.' I am not judging or criticizing those shows at all; what I am saying is the perspective is not necessarily the male perspective. 'Iyanla: Fix My Life' is inclusive of everyone."
 <!-- end quote -->
 
 # GitHub Actions Demo
