@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It's a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient."
+💬 Quote of the Day: "Everything has seasons, and we have to be able to recognize when something's time has passed and be able to move into the next season. Everything that is alive requires pruning as well, which is a great metaphor for endings."
 <!-- end quote -->
 
 # GitHub Actions Demo
