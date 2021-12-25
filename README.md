@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Everything has seasons, and we have to be able to recognize when something's time has passed and be able to move into the next season. Everything that is alive requires pruning as well, which is a great metaphor for endings."
+💬 Quote of the Day: "Life is the art of drawing without an eraser."
 <!-- end quote -->
 
 # GitHub Actions Demo
