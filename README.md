@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The world is going to need all of the different kinds of minds to work together."
+💬 Quote of the Day: "Life is 10% what happens to us and 90% how we react to it."
 <!-- end quote -->
 
 # GitHub Actions Demo
