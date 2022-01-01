@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is 10% what happens to us and 90% how we react to it."
+💬 Quote of the Day: "If you like what you do, and you're lucky enough to be good at it, do it for that reason."
 <!-- end quote -->
 
 # GitHub Actions Demo
