@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Believe that life is worth living and your belief will help create the fact."
+💬 Quote of the Day: "Without discipline, there's no life at all."
 <!-- end quote -->
 
 # GitHub Actions Demo
