@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Without discipline, there's no life at all."
+💬 Quote of the Day: "While there's life, there's hope."
 <!-- end quote -->
 
 # GitHub Actions Demo
