@@ -26,3 +26,5 @@
 - GitHub Action to update README with daily quote every 24 hours 💬
 - Example workflow [here](https://github.com/victoria-lo/github-action-demo/blob/main/.github/workflows/qotd.yml)
 - Quote of the Day Action repo [here](https://github.com/victoria-lo/qotd-github-action)
+
+> Note: Free-tier API limit exceeded. This repo only serves as demo. GitHub Action will no longer be running every 24 hours.
