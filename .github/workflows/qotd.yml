@@ -2,8 +2,8 @@ name: Update README with QOTD
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "0 0 * * *" # triggers every midnight
+  #schedule:
+  #- cron: "0 0 * * *" # triggers every midnight
 
 jobs:
   build:
